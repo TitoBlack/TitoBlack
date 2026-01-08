@@ -4,8 +4,6 @@
   </a>
 </div>
 
-![Tiago Serpa's GitHub stats](https://github-readme-stats.vercel.app/api?username=TitoBlack&show_icons=true&theme=radical)
-
 
 <h3 align="left">My Stack ~</h3>
 
