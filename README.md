@@ -7,6 +7,8 @@
 
 <h3 align="left">My Stack ~</h3>
 
+<p aling="left"> Fundamentals: </p>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Tito-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
   
